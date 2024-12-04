@@ -220,13 +220,13 @@ const Forms = () => {
                 className="mt-4 p-2 block w-full rounded-md border border-gray-300 text-black"
               >
               <option value="">Select Type</option>
-              <option value="4">4 October</option>
-              <option value="5">5 October</option>
-              <option value="6">6 October</option>
-              <option value="4,5">4,5 October</option>
-              <option value="5,6">5,6 October</option>
-              <option value="4,6">4,6 October</option>
-              <option value="4,5,6">4,5,6 October</option>
+              <option value="4">15 December</option>
+              <option value="5">16 December</option>
+              <option value="6">17 December</option>
+              <option value="4,5">15,16 December</option>
+              <option value="5,6">15,17 December</option>
+              <option value="4,6">16,17 December</option>
+              <option value="4,5,6">15,16,17 December</option>
             </select>
           </div>
 
