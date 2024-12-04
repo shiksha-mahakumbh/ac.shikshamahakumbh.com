@@ -21,7 +21,7 @@ const CompanyInfo: React.FC = () => {
           शिक्षा महाकुंभ अभियान
         </h2>
         <h2 className="text-lg md:text-xl lg:text-2xl text-primary font-bold">
-          Shiksha MahaKumbh Abhiyan
+          Shiksha Mahakumbh Abhiyan
         </h2>
       </div>
 
